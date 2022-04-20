@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MariaEBrown/ReadMe-Generator/issues"
   },
-  "homepage": "https://github.com/MariaEBrown/ReadMe-Generator#readme"
+  "homepage": "https://github.com/MariaEBrown/ReadMe-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
 }
